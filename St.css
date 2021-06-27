@@ -1,0 +1,63 @@
+
+body{
+    background-color: #BED6FE;
+ border: 10px solid blue;
+  padding: 20px;
+  margin: 20px;
+  width: 30%;
+    
+}  
+
+
+
+.button {
+  border: 1px solid #3498db;
+  background: none;
+  -webki-appearance: none;
+  padding: 7px 15px;
+  font-size: 20px;
+  font-family: "montserrat";
+  cursor: pointer;
+  margin: 4px 2px;
+  border-radius: 5px;
+  outline: none;
+  padding: 15px 32px;
+  opacity: 0.8;
+  background: rgb(226, 217, 217);
+  text-align: center;
+  -webki-transition: .2s;
+  transform: opacity .2s;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    color: #3498db;
+    align-items: center;
+    align-self: center;
+
+  
+}
+.buttun2{
+    
+      border: 1px solid red;
+  background: none;
+  -webki-appearance: none;
+  padding: 7px 15px;
+  font-size: 20px;
+  font-family: "montserrat";
+  cursor: pointer;
+  margin: 4px 2px;
+  border-radius: 5px;
+  outline: none;
+  padding: 15px 32px;
+  opacity: 0.8;
+  background: rgb(226, 217, 217);
+  text-align: center;
+  -webki-transition: .2s;
+  transform: opacity .2s;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    color: red;
+
+}
+
